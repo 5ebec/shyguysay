@@ -1,0 +1,13 @@
+##
+## Shy Guys are common enemies in the Mario and Yoshi series
+##
+$the_cow = <<EOC;
+               $thoughts     _____
+                $thoughts  ／____ ＼
+                   /／    ＼_＞
+                   H ⬤  ⬤   H
+                  /\   o    /＼
+                 (_/＼____／\__)
+                   (===[]====)
+                   (__)  (___)
+EOC
