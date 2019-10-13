@@ -1,0 +1,14 @@
+##
+## Shy Guys are common enemies in the Mario and Yoshi series
+## Inverse mode
+##
+$the_cow = <<EOC;
+     _____     /
+   ／ ____＼  /
+ ＜_／    ＼\
+   H  ⬤  ⬤  H
+ ／\    o   /\
+(__/＼____／\_)
+  (====[]===)
+  (___)  (__)
+EOC
