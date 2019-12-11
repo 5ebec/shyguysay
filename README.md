@@ -1,5 +1,5 @@
 # shyguysay
-`cowsay` for Shy Guy
+`cowsay` for [Shy Guy](https://www.mariowiki.com/Shy_Guy)
 
 ```
  ___________________________
